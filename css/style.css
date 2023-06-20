@@ -52,7 +52,8 @@ body
   border: 1px solid rgba(0,0,0,0.35);
 
 }
-/*
+
+
 section 
 {
   position:absolute;
@@ -213,6 +214,6 @@ section .signin .content .form .inputBx i
   width:calc(20vw - 2px) ;
   height:calc(20vw - 2px) ;
   }
-} */
+} 
 
 
