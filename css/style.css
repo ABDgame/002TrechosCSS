@@ -14,7 +14,30 @@ body
   min-height:100vh;
   background:#223243;
 }
-
+.container
+{
+  padding: 40px;
+  border-radius: 20px;
+  border: 8px solid#fff;
+  box-shadow: -5px -5px 15px rgba(255,255,255,0.1),
+  5px 5px 15px rgba(0,0,0,0.35),
+  inset -5px -5px 15px rgba(255,255,255,0.1),
+  inset 5px 5px 15px rgba(0,0,0,0.35);
+}
+.container.form 
+{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  gap:25px;
+}
+.container .form h2
+{
+  color:#fff;
+  font-weight:500;
+  
+}
 /*
 section 
 {
