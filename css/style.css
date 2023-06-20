@@ -112,6 +112,18 @@ body
   inset -5px -5px 15px rgba(255,255,255,0.1),
   inset 5px 5px 15px rgba(0,0,0,0.35);
 }
+.container .form p
+{
+  color: rgba(255,255,255,0.5);
+  font-size: 0.75em;
+  font-weight: 300;
+}
+.container .form p a 
+{
+  font-weight: 500
+  color: #fff;
+  
+}
 
 
 
