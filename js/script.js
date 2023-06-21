@@ -5,3 +5,7 @@ let container = document.querySelector('.container');
 login.onclick = function(){
   container.classList.add('signinForm');
 }
+
+login.onclick = function(){
+  container.classList.remove('signinForm');
+}
