@@ -18,7 +18,7 @@ body
 {
   padding: 40px;
   border-radius: 20px;
-  border: 8px solid #fff;
+  border: 8px solid #223243;
   box-shadow: -5px -5px 15px rgba(255,255,255,0.1),
   5px 5px 15px rgba(0,0,0,0.35),
   inset -5px -5px 15px rgba(255,255,255,0.1),
@@ -32,13 +32,13 @@ body
   flex-direction: column;
   gap: 25px;
 }
-.container .form .signin,
-.container .signinForm .form.signup
+.container .form.signin,
+.container.signinForm .form.signup
 {
   display: none;
 }
 
-.container .signinForm .form.signin
+.container.signinForm .form.signin
 {
   display: flex;
 }
@@ -110,7 +110,7 @@ body
   border-right: 1px solid #00dfc4;
 }
 
-.container .form .inputBox input[type ="submit"]
+.container .form .inputBox input[type="submit"]
 {
   background: #00dfc4;
   color: #223243;
@@ -130,9 +130,8 @@ body
 }
 .container .form p a 
 {
-  font-weight: 500
+  font-weight: 500;
   color: #fff;
-  
 }
 
 
