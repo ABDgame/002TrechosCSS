@@ -32,8 +32,8 @@ body
   flex-direction: column;
   gap: 25px;
 }
-.container .form.signin,
-.container .signinForm .form.signup
+.container .form .signin,
+.container .signinForm .form .signup
 {
   display: none;
 }
