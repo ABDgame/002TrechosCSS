@@ -4,6 +4,29 @@
 
 <img src="002.jpg" width="500px">
 
+# CÓDIGO FONTE:
+ - https://www.youtube.com/watch?v=G58ZcfjSz0U&t=236s
 
-https://cdnjs.com/libraries/font-awesome/6.2.1
-https://www.youtube.com/watch?v=G58ZcfjSz0U&t=236s
+# Color Palette:
+ - https://mycolor.space
+
+# Editor de Imagens Online:
+ - https://www.resizepixel.com/pt/edit
+
+# Imagens:
+- https://www.freepik.com/
+- https://www.storyset.com/
+- https://www.undraw.com/
+- https://www.pixabay.com/
+- https://www.unsplash.com/
+- https://www.flaticon.com/
+- https://www.pngegg.com/
+
+# Redes Sociais:
+- https://www.instagram.com/mqjogos/
+- https://www.linkedin.com/in/debora-inocencio/
+- https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
+- https://github.com/ABDgame
+
+
+
