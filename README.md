@@ -23,10 +23,10 @@
 - https://www.pngegg.com/
 
 # Redes Sociais:
-- https://www.instagram.com/mqjogos/
+- https://www.instagram.com/trechosgame/
 - https://www.linkedin.com/in/debora-inocencio/
 - https://www.youtube.com/channel/UCfEsOEx_t6hiIms8HzttxOw/featured
-- https://github.com/ABDgame
+- https://github.com/trechosgame
 
 
 
